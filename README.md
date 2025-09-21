@@ -20,7 +20,7 @@ Highlights and features of dashboard :-
 
 In the last five months, our company faced challenges in tracking employee performance and project productivity. HR leaders struggled to understand which departments were excelling and which needed support. To solve this, we built an interactive HR Dashboard that transforms raw data into actionable insights. A pie chart highlights performance distribution by department, a gauge chart monitors projects handled, and a line chart reveals monthly productivity trends. With these visuals, decision-makers can easily spot strengths, identify gaps, and drive performance improvements—ensuring higher efficiency and smarter workforce management.
 
-Demo screenshot of dashboard :
+Demo screenshot of dashboard :https://github.com/Adarshkumar927/HR-dashboard-employee-performance-/blob/main/Screenshot%202025-09-21%20152841.png
 
 
 
